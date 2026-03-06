@@ -1,0 +1,2 @@
+# kindle_calender_generater
+一个python脚本，快速生成用于闲置kindle的日历pdf文件
